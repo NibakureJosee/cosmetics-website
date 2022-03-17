@@ -1,0 +1,601 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+
+    font-family:'Roboto',sans-serif;
+
+}
+.container{
+
+    background-image: url(./photos/Frame\ 1design.png);
+    background-repeat:no-repeat;
+    background-size: 1710px;
+    margin-left: 230px;
+    
+    
+}
+
+.col1{
+    width: 50%;
+    display: flex;
+    float: left;
+    /* background-image: url(./media/logo3-removebg-preview.png); */
+    background-repeat: no-repeat;
+    margin-left: 397px;
+    background-size: 345px;
+}
+   
+.products{
+    margin-top: 378px;
+}
+.header{
+    margin-left: 678px;
+    font-size: 22px;
+    color: rgba(53, 19, 3, 0.897);
+}
+.menu{
+padding: 2px;
+float: inline-start;
+list-style: none;
+}
+
+.logo{
+    margin-top: -68px;
+    margin-left: 83px;
+
+}
+.navbar{
+    /* background-image: url(./media/logo3-removebg-preview.png); */
+    background-repeat: no-repeat;
+    margin-left: 37px;
+    background-size: 345px;
+}
+.menu a{
+    list-style-type: none;
+    text-decoration: none;
+    padding: 34px;
+    font-size: 25px;
+    color: rgb(3, 21, 44);
+}
+
+
+.listi{
+    
+
+    display: inline-block;
+    margin-left:3435px;
+    margin-left: 128px;
+    text-decoration: none;
+    border-bottom: 7px;
+    font-size: 16px;
+       
+}
+a{
+    padding: 10px;
+    text-decoration: none;
+    float: left;
+    text-transform: uppercase;
+    color:  rgb(51, 24, 24);
+    
+    
+}
+a:hover{
+    /* color: rgb(197, 123, 166); */
+    background-color: rgb(241, 247, 255);
+}
+
+
+.user{
+    margin-left: 99%;
+}
+li:hover{
+    background-color: rgb(203, 195, 207);
+}
+
+.row{
+    height: 80%;
+}
+
+.view{
+    margin-left: 56px;
+    margin-top: -95px;
+}
+
+.text{
+    margin-top: 0px;
+}
+
+.col2{
+    width: 15%;
+    float: left;
+    display: block;
+    margin-left: 55px;
+    margin-right: 55px;
+}
+
+.head1{
+    font-size: 20px;
+    margin-left: 500px;
+    color: rgb(117, 49, 18);
+    margin-top: 23px;
+}
+
+
+
+.head{
+    font-size: 20px;
+    margin-left: 500px;
+    color: rgb(8, 8, 73);
+}
+
+
+.row{
+    width: 20%;
+    float: left;
+    display: block;
+}
+
+
+.span8 a{
+    float: left;
+    display: block;
+    margin-left: 68px;
+ 
+      
+}
+
+
+.button{
+  
+    border: none;
+    color: rgb(27, 92, 167);
+    background-color: rgb(194, 229, 229);
+    /* padding: 15px 32px; */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 23px;
+    width: 346px;
+    height: 120px;
+    margin: 10px;
+    cursor: pointer;
+}
+.submit{
+    background-color: rgb(118, 158, 218);
+}
+
+h2{
+    font-size: 18px;
+   
+}
+.end{
+    background-color: rgb(112, 93, 84);
+    margin-top: 400px;
+  
+}
+
+.endd{
+    
+    margin-top: 3589px;
+}
+p{
+    margin-top: 90px;
+    margin-left: 8px
+}
+.up a{
+    margin-top: -997px;
+    margin-left: 98px;
+}
+
+
+.regista{
+    
+    background-image: url(./jewlery/loginbg.jpg);
+    background-repeat: no-repeat;
+    background-size: 2100px;
+}
+.txt{
+    font-size: 24px;
+    text-align: center;
+}
+
+input{
+    font-size: 15px;
+    text-align: center;
+    background-color: rgb(205, 208, 241);
+    height: 45px;
+    width: 303px;
+    margin-left: 10px;
+    margin-top: 32px;
+    border-radius: 45px;
+    border: hidden;
+}
+.form{
+    margin-left: 345px;
+    
+}
+.list{
+    background-color:rgb(197, 184, 192);
+    width: 50%;
+    padding: 2px;
+   
+    
+}
+
+.btn{
+    padding-left: 64px;
+    padding-top: 47px;
+}
+
+
+
+
+p{
+    margin-top: 90px;
+    margin-left: 8px
+}
+
+.products{
+    margin-top: 00px;
+    margin-left: 105px;
+   
+
+}
+
+.span4{
+    width: 30%;
+    float: left;
+    border-radius: 16px;
+    margin-top: 54px;
+    margin-left: 35px;  
+    padding-left: 12px;
+    margin-right: 5px;
+    background-color: rgb(248, 250, 250);
+    box-shadow: 0 0 3px rgba(0, 0, 0,0.5);
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content:center ; */
+    align-items: center;
+     
+    
+}
+.span4 img{
+    /* height: 349px; */
+    /* width: 170em; */
+    float: left;
+    /* margin-top: 5em; */
+    padding: 64px;
+   
+}
+h4{
+    font-size: 35px;
+    color: rgb(8, 35, 66);
+    margin-top: 2px;
+    margin-left: 5px;
+}
+h6{
+    font-size: 18px;
+    margin-top: 365px;
+    font-family: sans-serif;
+    text-justify: auto;
+}
+.footer{
+    /* background-color: rgb(233, 202, 205); */
+    margin-top: 4000px;
+}
+.mainpro{
+    
+    /* background-image: url(./jewlery/productgn.png); */
+    background-repeat:no-repeat;
+    background: #61899c;
+    background-size: 1900px;
+}
+
+.beauty{
+    margin-top: 65px;
+    margin-left:  90px;
+    margin-right:  90px;
+}
+
+.span3{
+    float: left;
+    width: 20%;
+    margin-left: 67px;
+    margin-right: 97px;
+    margin-top: 56px;
+    background-color: rgb(210, 216, 231);
+    box-shadow: 0 0 3px rgba(160, 181, 207, 0.5);
+    /* display: flex; */
+
+}
+.span3 img{
+    width: 305px;
+    margin-top: -8px;
+    height: 434px;
+    margin-top: 4px; 
+    border-radius: 34px;
+}
+
+.span1{
+    float: left;
+    width: 20%;
+    margin-left: 97px;
+    margin-right: 97px;
+    margin-top: 1px;
+    background-color: rgb(235, 238, 243);
+    box-shadow: 0 0 9px rgba(0, 0, 0,0.5);
+    /* display: flex; */
+
+}
+.span1 img{
+    width: 335px;
+    margin-top: -8px;
+    height: 434px;
+    margin-top: 1px; 
+    border-radius: 50px;
+}
+
+p9{
+    font-size: 35px;
+    color: rgb(8, 35, 66);
+    margin-top: 2px;
+    padding-left: 90px;
+}
+.nding{
+    margin-top: 2399px;
+    background-color: rgb(127, 130, 133);
+}
+
+.mibuty{
+    background-color: rgb(231, 238, 243);
+}
+
+.bg img{
+  width: 100%;
+}
+
+.contf{
+    margin-top: -2187px;
+    background-color: rgb(112, 111, 124);
+}
+
+.contpro{
+    background-image: url(./media/coding.png);
+    background-repeat:no-repeat;
+    background-size: 1840px;
+}
+
+.img img{
+    width: 2099px;
+    margin-top: 56px;
+    height: 523px;
+    margin-left: -599px;
+    
+}
+.sub3{
+    width: 30%;
+    float: left;
+    margin-left: 34px;
+    margin-top: 200px;
+}
+
+.span6{
+    width: 20%;
+    float: left;
+    display: block;
+    margin-top: 9px;
+    margin-left: 70px;
+    
+}
+.endf{
+    background-color: rgb(216, 204, 202);
+    margin-top: 4306px;
+}
+.containe{
+    background-image: url(./photos/design.png);
+    background-repeat:no-repeat;
+    background-size: 1840px;
+}
+
+.some{
+    width: 20%;
+    float: left;
+    background-color: rgb(57, 59, 92);
+}
+.some img{
+    width: 40px;
+    height: 234px;
+    margin: 67px;
+    float: left;
+    display: block;
+}
+
+.toall{
+    background-image: url(./jewlery/loginbg.jpg);
+    background-size: 2344px;
+    background-repeat: no-repeat;
+    text-align: center;
+    border: 8px solid green;
+    margin-top: 279px;
+    
+
+}
+.user{
+    margin-left: 1500px;
+}
+.logo img{
+    width: 64px;   
+}
+
+.divideo{
+    width: 345px;
+    height: 345px;
+}
+
+.span8 a{
+    margin-top: -68px;
+}
+p{
+    margin-top: 13pc;
+}
+.footer{
+    margin-top: 788px;
+    /* background-color: rgb(245, 159, 159); */
+}
+
+.span6 img{
+    float: left;
+    display: block;
+    margin-left: 68px;
+    margin-top: -0px;
+ 
+      
+}
+
+.span7{
+    float: left;
+    width: 20%;
+    margin-left: 56px;
+    background-color: white;
+    margin-top: 56px;
+}
+.span7 p{
+    margin-top: -14px;
+}
+
+.prduct{
+    margin-top: 816px;
+    margin-left: 256px;
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    background: rgb(251, 251, 253);
+}
+
+.wrapper .sidebar{
+    background: rgb(243, 208, 208);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 225px;
+    height: 100%;
+    padding: 20px 0;
+    transition: all 0.5s ease;
+}
+
+
+.wrapper .sidebar .profile{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.wrapper .sidebar .profile img{
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.wrapper .sidebar .profile h3{
+    color: #1a0d07;
+    margin: 10px 0 5px;
+    font-size: 21px;
+    margin-top: 45px;
+}
+
+.wrapper .sidebar .profile p{
+    color: rgb(85, 2, 9);
+    font-size: 16px;
+    margin-top: 34px;
+}
+
+.wrapper .sidebar ul li a{
+	display: block;
+	padding: 13px 30px;
+	border-bottom: 1px solid #c57242;
+	color: rgb(22, 51, 51);
+	font-size: 16px;
+	position: relative;
+}
+.wrapper .sidebar ul li a .icon{
+	color: #203147;
+	width: 30px;
+	display: inline-block;
+}
+
+.wrapper .sidebar ul li a:hover,
+.wrapper .sidebar ul li a.active{
+	color: #61899c;
+	background:white;
+    border-right: 2px solid rgb(5, 68, 104);
+}
+.wrapper .sidebar ul li a:hover .icon,
+.wrapper .sidebar ul li a.active .icon{
+	color: #b14e0c;
+}
+.wrapper .sidebar ul li a:hover:before,
+.wrapper .sidebar ul li a.active:before{
+	display: block;
+}
+
+.regismatTabLabel{
+    background-color: rgb(221, 164, 164);
+    height: 100%;
+    background-image: url(./jewlery/1-05472.avif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.form{
+    height: 43em;
+    align-items: center;
+    margin-left: 366px;
+    background-color: #b59fbd;
+    margin-right: 567px;
+}
+.list{
+ 
+    background-color: #b59fbd;
+    margin-top: 45px;
+    margin-left: 123px;
+}
+.reg{
+    margin-left: 54px;
+    overflow: none;
+
+
+}
+
+.settings h4{
+    font-size: 18px;
+}
+.settings{
+    margin-left: 94px;
+}
+
+
+
+
+
+
+
+
+
